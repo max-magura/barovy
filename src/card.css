@@ -1,0 +1,17 @@
+.card {
+  margin-left: 10px;
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 50px; 
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+}
+
+a {
+  color: rgba(63,75,59,1)
+}
+
+h4 {
+  color: rgba(63,75,59,1)
+}
